@@ -17,4 +17,4 @@ public class E02_DiazSemana {
             case 7 -> System.out.println("Es Domingo");   
         }
     }   
-} // Por MRodzDirect 😉
+} // Por Lady Robalino

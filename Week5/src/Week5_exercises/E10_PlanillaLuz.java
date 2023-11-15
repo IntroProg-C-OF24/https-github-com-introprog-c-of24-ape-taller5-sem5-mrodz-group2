@@ -17,4 +17,4 @@ public class E10_PlanillaLuz {
         }
         System.out.println("El valor de la planilla es: " + vari4);
     }
-} // Por MRodzDirect 😉
+} // Por Lady Robalino

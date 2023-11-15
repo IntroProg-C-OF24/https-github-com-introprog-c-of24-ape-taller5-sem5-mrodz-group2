@@ -14,4 +14,4 @@ public class E04_DescuentoEnCompras {
         System.out.println("El precio final del producto es: " + precio); 
     }
 }
-// Por MRodzDirect 😉
+// Por Lady Robalino

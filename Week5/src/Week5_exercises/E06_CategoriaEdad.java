@@ -17,4 +17,4 @@ public class E06_CategoriaEdad {
         }
     }
 }
-// Por MRodzDirect 😉
+// Por Lady Robalino
