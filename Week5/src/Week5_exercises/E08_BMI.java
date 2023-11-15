@@ -27,4 +27,4 @@ public class E08_BMI {
        
         System.out.println("Tu IMC es: " + imc);
     }
-} // Por MRodzDirect 😉
+} // Por Lady Robalino
