@@ -1,5 +1,4 @@
 package Week5_exercises;
-//Autor: Ricardo, quien mas?
 import java.util.Scanner;
 public class E13_Hosteria {
     public static void main(String[] args) {
